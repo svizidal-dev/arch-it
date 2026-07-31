@@ -1,0 +1,13 @@
+# Build output
+work/
+out/
+
+# Build Products
+*.iso
+*.img
+
+# Build Artifacts
+*.pkg.tar.zst
+
+# Logs
+*.log
