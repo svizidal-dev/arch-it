@@ -41,6 +41,7 @@ Version 0.1.0 {
 }
 Plans: {
  [?] Persistant-installation Direction
- # Direction
-  [?] Early Implimentation Of archinstall
+ }
+Direction
+ [?] Early Implimentation Of archinstall
 }
