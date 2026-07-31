@@ -1,6 +1,6 @@
 arch-it:# cat ./Readme.md
 
-arch-it is a utility-first, portable recovery Linux enviroment.
+arch-it is a utility-first, portable recovery Linux enviroment, with optional usage to install onto your system if needed.
 
 arch-it:# cat ./Philosophy
 
