@@ -1,6 +1,6 @@
 arch-it:# cat ./Readme.md
 
-arch-it is a utility-first, portable recovery Linux enviroment.
+arch-it is a utility-first, portable recovery Linux enviroment, with optional usage to install onto your system if needed.
 
 arch-it:# cat ./Philosophy
 
@@ -27,11 +27,3 @@ arch-it was created as a hobbyist project, using arch linux as the base for a mo
 arch-it is designed to make debugging and repairing Linux installations straightforward, while helping users understand not only what went wrong, but why.
 
 arch-it:# tree ./roadmap
-
-roadmap
-├── [ ] First ISO
-├── [ ] UEFI Boot
-├── [ ] Legacy Boot
-├── [ ] Recovery Scripts
-├── [ ] Documentation
-└── [ ] v0.1.0
