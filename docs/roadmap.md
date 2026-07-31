@@ -1,4 +1,9 @@
 arch-it:# ./roadmap
+Legend: {
+[/]=Complete
+[?]=Planned /In Progress
+[O]=Blocked
+}
 
 Version 0.1.0 {
  [/] Project Identity

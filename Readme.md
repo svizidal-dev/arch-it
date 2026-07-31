@@ -1,6 +1,6 @@
 arch-it:# cat ./Readme.md
 
-arch-it is a utility-first, portable recovery Linux enviroment, with optional usage to install onto your system if needed.
+arch-it is a utility-first, portable recovery Linux Environment, with optional usage to install onto your system if needed.
 
 arch-it:# cat ./Philosophy
 
@@ -20,13 +20,19 @@ arch-it:# Goals
 
 arch-it:# cat ./why_does_arch-it_exist
  
-This project aims to bridge the gap between other recovery enviroments by providing a terminal-first workflow with the option to boot into a graphical interface, tailoring to the user's workflow preferences.
+This project aims to bridge the gap between other recovery Environments by providing a terminal-first workflow with the option to boot into a graphical interface, tailoring to the user's workflow preferences.
 
 arch-it was created as a hobbyist project, using arch linux as the base for a modular, simple, and powerful tool.
 
 arch-it is designed to make debugging and repairing Linux installations straightforward, while helping users understand not only what went wrong, but why.
 
 arch-it:# tree ./roadmap
+
+Legend: {
+[/]=Complete
+[?]=Planned /In Progress
+[O]=Blocked 
+}
 
 Version 0.1.0 {
  [/] Project Identity
@@ -35,13 +41,13 @@ Version 0.1.0 {
  [/] Core Requirements
  [/] Design Notes
  [/] Git Repository
- [/] Early Implimentation Of The Profile Structure
+ [/] Early Implementation Of The Profile Structure
  [/] Terminal-First Design Language
- [/] Optional Graphical Enviroment
+ [/] Optional Graphical Environment
 }
 Plans: {
- [?] Persistant-installation Direction
+ [?] Persistent-installation Direction
  }
 Direction
- [?] Early Implimentation Of archinstall
+ [?] Early Implementation Of archinstall
 }
